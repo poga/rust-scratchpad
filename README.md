@@ -4,7 +4,7 @@ An example of using `cargo workspace` and [snapshot testing](https://docs.rs/ins
 
 ## Requirements
 
-`cargo install insta`
+`cargo install cargo-insta`
 
 ## How I use this template
 
